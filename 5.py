@@ -1,2 +1,2 @@
-s,t,v=input().split()
-print(max(s,t,v))
+s,t,z=input().split()
+print(max(s,t,z))
