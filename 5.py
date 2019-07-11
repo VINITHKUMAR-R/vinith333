@@ -5,6 +5,6 @@ if(s>t)and(s>u):
   print(round(s))
 elif(t>s)and(t>u):
   print(round(t))
-else:
+else(u>s)and(u>t):
   print(round(u))
  
