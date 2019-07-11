@@ -1,4 +1,4 @@
-z=input()
+z=int(input())
 if(z%400==0):
   print("yes")
 else:
