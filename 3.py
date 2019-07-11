@@ -3,8 +3,8 @@ a=["a","e","i","o","u"]
 
 if(x>= 'a'and x<= 'z'):
     if x in a:
-        print("vowels")
+        print("Vowels")
     else:
-        print("consonant")
+        print("Consonant")
 else:
     print("invalid")
