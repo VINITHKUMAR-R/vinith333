@@ -1,4 +1,4 @@
-x=input()
+x = input()
 a=["a","e","i","o","u"]
 
 if(x>= 'a'and x<= 'z'):
