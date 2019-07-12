@@ -1,6 +1,6 @@
 x,z=int(input().split())
 for i in range(x+1,z):
-  if number%2!=0:
-    print(number,end="")
+  if i%2!=0:
+    print(i,end="")
   else:
     pass
