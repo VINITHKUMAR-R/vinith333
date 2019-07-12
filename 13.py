@@ -1,5 +1,5 @@
 r=int(input())
-for i in range(2,r)
+for i in range(2,r):
   if(r%i==0):
     print("no")
     break:
