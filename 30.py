@@ -1,0 +1,5 @@
+p=list(map(int,input().split()))
+q=list(map(int,input().split()))
+r=abs(p[0]-q[0])
+s=abs(p[1]-q[1])
+print(r,s)
