@@ -1,6 +1,3 @@
-a=int(input())
-lis=[]
-for i in range(1,a+1):
-    p=int(input())
-    lis.append(p)
-print(max(lis))
+p=int(input())
+lst=list(map(int,input().split()))[:p]
+print(max(lst))
