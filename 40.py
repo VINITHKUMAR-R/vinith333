@@ -9,5 +9,5 @@ while i<x+1:
     value=fv+sv
     fv=sv
     sv=value
- print(value,end=" ")
- i=i+1
+  print(value,end=" ")
+  i=i+1
